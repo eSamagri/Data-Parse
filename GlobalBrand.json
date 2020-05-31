@@ -1,0 +1,693 @@
+[
+  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Jeera" },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Kali-Mirch"
+  },
+  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Methi" },
+  { "brand": "Catch", "displayImg": "", "packed": true, "item": "Hing" },
+  { "brand": "Patanjali", "displayImg": "", "packed": true, "item": "Hing" },
+  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Sarso" },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Elaichi"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Ajwain"
+  },
+  {
+    "brand": "Catch",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j9yixe80/spice-masala/h/u/c/100-turmeric-powder-pouch-catch-powder-original-imaezn6b9fg8fbyu.jpeg?q=70",
+    "packed": true,
+    "item": "Haldi"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j4sronk0/spice-masala/z/q/p/200-pouch-turmeric-everest-powder-original-imaevmuktrdsgqtk.jpeg?q=70",
+    "packed": true,
+    "item": "Haldi"
+  },
+  {
+    "brand": "MDH",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j4sronk0/spice-masala/e/v/h/100-box-turmeric-mdh-powder-original-imaevmuhmybmbjza.jpeg?q=70",
+    "packed": true,
+    "item": "Haldi"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Haldi-"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j4fwpzk0/spice-masala/h/6/w/500-pouch-coriander-everest-powder-original-imaevahchnpxskqz.jpeg?q=70",
+    "packed": true,
+    "item": "Dhaniya-Powder"
+  },
+  {
+    "brand": "MDH",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/j4eha4w0/spice-masala/n/g/6/100-pouch-coriander-mdh-powder-original-imaevaknretvsztb.jpeg?q=70",
+    "packed": true,
+    "item": "Dhaniya-Powder"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Dhaniya-Powder"
+  },
+  {
+    "brand": "MDH",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j9it30w0/spice-masala/z/t/4/100-lal-mirch-powder-box-mdh-powder-original-imaezawrkzvdgyhg.jpeg?q=70",
+    "packed": true,
+    "item": "Lal-Mirch"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Lal-Mirch"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jfsknm80/spice-masala/z/9/z/100-jeera-box-everest-powder-original-imaf46hauzhbgnyk.jpeg?q=70",
+    "packed": true,
+    "item": "Jeera-Powder"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Jeera-Powder"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Elaichi-Powder"
+  },
+  {
+    "brand": "Maggi",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Maggi-Masala-Magic"
+  },
+  {
+    "brand": "MDH ",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j84so7k0/spice-masala/h/e/g/100-chaat-masala-powder-box-mdh-powder-original-imaey8yhjrzrkpd7.jpeg?q=70",
+    "packed": true,
+    "item": "Chat-Masala"
+  },
+  {
+    "brand": "Catch",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j3orcsw0/spice-masala/f/z/r/50-sachet-chaat-masala-catch-powder-original-imaeuq8wz5wzekzc.jpeg?q=70",
+    "packed": true,
+    "item": "Chat-Masala"
+  },
+  {
+    "brand": "Catch",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j3orcsw0/spice-masala/f/z/c/100-sachet-garam-masala-catch-powder-original-imaeuq8qshgre9t3.jpeg?q=70",
+    "packed": true,
+    "item": "Garam-Masala"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Garam-Masala"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/jdoubgw0/spice-masala/r/7/3/50-sabji-masala-box-everest-powder-original-imaf2jky3zhks3ms.jpeg?q=70",
+    "packed": true,
+    "item": "Sabji-Masala"
+  },
+  {
+    "brand": "Catch",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k33c4nk0/spice-masala/k/8/p/100-sabzi-masala-powder-box-catch-powder-original-imafmanyvwpsfbrq.jpeg?q=70",
+    "packed": true,
+    "item": "Sabji-Masala"
+  },
+  {
+    "brand": "Unpackaged ",
+    "displayImg": "",
+    "packed": false,
+    "item": "Sabji-Masala"
+  },
+  {
+    "brand": "MDH",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j4sronk0/spice-masala/x/t/u/100-box-meat-masala-mdh-powder-original-imaevmuh6wweanrs.jpeg?q=70",
+    "packed": true,
+    "item": "Meat-Masala"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j4eha4w0/spice-masala/q/h/6/100-box-meat-masala-everest-powder-original-imaevahf8ynkkysk.jpeg?q=70",
+    "packed": true,
+    "item": "Meat-Masala"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j4fwpzk0/spice-masala/j/u/j/100-box-chicken-curry-masala-everest-powder-original-imaevaheynmgargv.jpeg?q=70",
+    "packed": true,
+    "item": "Chicken-Masala"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "",
+    "packed": false,
+    "item": "Sambhar-Masala"
+  },
+  {
+    "brand": "Everest",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jdvziq80/spice-masala/n/x/8/50-sambar-masala-pouch-everest-powder-original-imaf2zzbkvaxpzfg.jpeg?q=70",
+    "packed": true,
+    "item": "Sambhar-Masala"
+  },
+  {
+    "brand": "Kohinoor",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/jqpiqvk0/rice/4/c/b/1-white-royale-authentic-basmati-rice-pouch-kohinoor-original-imafcnv3egvszft2.jpeg?q=70",
+    "packed": true,
+    "item": "Basmati-Rice"
+  },
+  {
+    "brand": "India Gate",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/k0wqwsw0/rice/x/h/s/1-white-feast-rozzana-basmati-rice-pouch-india-gate-original-imafkhqseub5jaha.jpeg?q=70",
+    "packed": true,
+    "item": "Basmati-Rice"
+  },
+  {
+    "brand": "Kohinoor",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/k9bo9e80/rice/4/c/t/1-white-charminar-rozana-plain-rice-pouch-kohinoor-original-imafr5fjnvwurzjr.jpeg?q=70",
+    "packed": true,
+    "item": "Basmati-Rice"
+  },
+  {
+    "brand": "24 Mantra",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j9st5zk0/rice/g/g/u/1-na-brown-sona-masoori-rice-vacuum-pack-24-mantra-organic-original-imaezg6ntzfdkwzs.jpeg?q=70",
+    "packed": true,
+    "item": "Sona-Masoori-Rice-"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Sona-Masoori-Rice"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Arwa-Chawal"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Usina-Chawal"
+  },
+  {
+    "brand": "Unpackaged ",
+    "displayImg": "",
+    "packed": false,
+    "item": "Cashew-Nuts-(Kaaju)"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Almonds"
+  },
+  {
+    "brand": "LION",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j4rc8sw0/nut-dry-fruit/x/h/g/500-arabian-seeded-pouch-lion-original-imaevdnbhzzg3p3m.jpeg?q=70",
+    "packed": true,
+    "item": "Dates"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Raisins-(Kishmis)"
+  },
+  {
+    "brand": "Tata ",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jq4353k0/salt/q/w/m/1-na-iodized-salt-tata-original-imafc7agxkbypvgr.jpeg?q=70",
+    "packed": true,
+    "item": "Salt"
+  },
+  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Sugar" },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "",
+    "packed": false,
+    "item": "Jaggery-(-Gud)"
+  },
+  {
+    "brand": "Unibic",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j3orcsw0/cookie-biscuit/s/p/k/75-cashew-unibic-original-imaeuqgzaywr9ecf.jpeg?q=70",
+    "packed": true,
+    "item": "Cookies"
+  },
+  {
+    "brand": "Good Day",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k9u8zgw0/cookie-biscuit/b/t/y/150-good-day-butter-cookies-britannia-original-imafrgxfzbsczhfh.jpeg?q=70",
+    "packed": true,
+    "item": "Cookies"
+  },
+  {
+    "brand": "Hide & Seek",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k9itgnk0/cookie-biscuit/4/m/z/350-hide-seek-chocolate-chip-cookies-parle-original-imafrazbgq3keeqf.jpeg?q=70",
+    "packed": true,
+    "item": "Cookies"
+  },
+  {
+    "brand": "Oreo",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k9stjm80/cookie-biscuit/w/d/b/300-original-vanilla-chocolatey-sandwich-biscuits-oreo-original-imafrgdchkbru76n.jpeg?q=70",
+    "packed": true,
+    "item": "Cream-Biscuits"
+  },
+  {
+    "brand": "Tiger",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Cream-Biscuits"
+  },
+  {
+    "brand": "Sunfeast Dark Fantasy",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j5ws0i80/cookie-biscuit/s/x/g/75-dark-fantasy-chocofills-sunfeast-original-imaewhnb9hqxy9zy.jpeg?q=70",
+    "packed": true,
+    "item": "Cream-Biscuits"
+  },
+  {
+    "brand": "Britannia Treat Jim Jam ",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k8j3gcw0/cookie-biscuit/e/t/g/150-treat-jim-jam-britannia-original-imafqgw8mhyxgmy3.jpeg?q=70",
+    "packed": true,
+    "item": "Cream-Biscuits"
+  },
+  {
+    "brand": "Bourban",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Cream-Biscuits"
+  },
+  {
+    "brand": "Britannia Marie Gold",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k8j3gcw0/cookie-biscuit/y/v/2/250-marie-gold-biscuits-britannia-original-imafqgw8hkzueezs.jpeg?q=70",
+    "packed": true,
+    "item": "Marie-Digestives"
+  },
+  {
+    "brand": "Dabour Glucose (Plain)",
+    "displayImg": "",
+    "packed": true,
+    "item": "Glucose"
+  },
+  {
+    "brand": "Dabour Glucose (Nimbu Pani)",
+    "displayImg": "",
+    "packed": true,
+    "item": "Glucose"
+  },
+  {
+    "brand": "Dabour Glucose (Orange)",
+    "displayImg": "",
+    "packed": true,
+    "item": "Glucose"
+  },
+  { "brand": "Rusk ", "displayImg": "", "packed": true, "item": "Rusk" },
+  {
+    "brand": "Dabur Chawanprash",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Chawanprash"
+  },
+  {
+    "brand": "Bourn Vita",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k9stjm80/milk-drink-mix/n/f/h/750-pro-health-vitamins-pouch-cadbury-bournvita-original-imafrgdcwzsk3dzn.jpeg?q=70",
+    "packed": true,
+    "item": "Health-&-Nutritional-Drink"
+  },
+  {
+    "brand": "Horlicks",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jq4353k0/milk-drink-mix/q/9/e/750-classic-malt-pouch-horlicks-original-imafc7agrpzhscag.jpeg?q=70",
+    "packed": true,
+    "item": "Health-&-Nutritional-Drink"
+  },
+  {
+    "brand": "Complan ",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/ka73y4w0/milk-drink-mix/r/y/g/500-kesar-badam-carton-complan-original-imafrtp7vc5uxjhh.jpeg?q=70",
+    "packed": true,
+    "item": "Health-&-Nutritional-Drink-"
+  },
+  {
+    "brand": "Boost",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/k1118cw0/milk-drink-mix/q/q/j/750-health-energy-sports-nutrition-drink-carton-boost-original-imafkzphfxkkaz78.jpeg?q=70",
+    "packed": true,
+    "item": "Health-&-Nutritional-Drink"
+  },
+  {
+    "brand": "Haldiram Bhujia",
+    "displayImg": "",
+    "packed": true,
+    "item": "Namkeen"
+  },
+  {
+    "brand": "Bikaji Bhujia ",
+    "displayImg": "",
+    "packed": true,
+    "item": "Namkeen"
+  },
+  {
+    "brand": "Mangal Mixture",
+    "displayImg": "",
+    "packed": true,
+    "item": "Namkeen-"
+  },
+  {
+    "brand": "Mangal Daalmot",
+    "displayImg": "",
+    "packed": true,
+    "item": "Namkeen"
+  },
+  {
+    "brand": "Lijjat Papad",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Papad"
+  },
+  {
+    "brand": "Tata Tea",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k1118cw0/tea/s/t/8/250-teaveda-ayurvedic-goodness-regular-tea-tata-powder-original-imafkzzhyzrhv2jt.jpeg?q=70",
+    "packed": true,
+    "item": "Tea"
+  },
+  {
+    "brand": "Red Label",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/jk76j680/tea/d/q/w/500-na-regular-tea-leaves-red-label-original-imaf7hk6773kxpuh.jpeg?q=70",
+    "packed": true,
+    "item": "Tea"
+  },
+  {
+    "brand": "Taj Mahal",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/jyq5oy80/tea/t/5/u/500-na-regular-tea-taj-mahal-powder-original-imaf6ect9ykqfech.jpeg?q=70",
+    "packed": true,
+    "item": "Tea"
+  },
+  {
+    "brand": "Lipton Green Tea",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j3rm8i80/tea/g/p/4/40-green-tea-25-pcs-green-tea-tea-bag-lipton-original-imaeurhdwz7vzwvj.jpeg?q=70",
+    "packed": true,
+    "item": "Green-Tea"
+  },
+  {
+    "brand": "Nescafe Coffee",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j612c280/coffee/h/q/j/50-classic-box-nescafe-original-imaewh2edhn3duh8.jpeg?q=70",
+    "packed": true,
+    "item": "Instant-Coffee"
+  },
+  {
+    "brand": "Bru",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/jb2j98w0/coffee/y/5/w/100-instant-coffee-plastic-bottle-bru-original-imafyg9ymghhtkhp.jpeg?q=70",
+    "packed": true,
+    "item": "Instant-Coffee"
+  },
+  {
+    "brand": "Maggi",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/k41mp3k0/noodle/n/w/a/140-masala-instant-noodles-maggi-original-imafmufhtbqf4gfp.jpeg?q=70",
+    "packed": true,
+    "item": "Noodles"
+  },
+  {
+    "brand": "Top Ramen",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Noodles"
+  },
+  {
+    "brand": "Yippie ",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Noodles"
+  },
+  {
+    "brand": "Patanjali Noodles ",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Noodles"
+  },
+  {
+    "brand": "Maggi Pazzta",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jsdj8nk0/pasta/p/j/e/70-pazzta-cheese-macaroni-instant-maggi-original-imafdyzzznvpynby.jpeg?q=70",
+    "packed": true,
+    "item": "Pasta"
+  },
+  {
+    "brand": "Vermicelli (Sewai)",
+    "displayImg": "",
+    "packed": true,
+    "item": "Vermicelli-"
+  },
+  {
+    "brand": "Kissan Ketchup",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jh2aqvk0/sauce-ketchup/r/t/p/950-fresh-tomato-pouch-ketchup-kissan-original-imaf56bfy2zajezn.jpeg?q=70",
+    "packed": true,
+    "item": "Tomato-Ketchups"
+  },
+  {
+    "brand": "Kissan Jam ",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/j4sronk0/jam-spread/v/g/y/200-mixed-fruit-jam-glass-bottle-mixed-fruit-jam-kissan-original-imaeurhghwyr3duc.jpeg?q=70",
+    "packed": true,
+    "item": "Jam"
+  },
+  {
+    "brand": "Patanjali Honey",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/k8xduvk0/honey/a/w/v/250-honey-patanjali-original-imafqtrbph4swgad.jpeg?q=70",
+    "packed": true,
+    "item": "Honey"
+  },
+  {
+    "brand": "Dabur Honey",
+    "displayImg": "https://rukminim1.flixcart.com/image/192/192/k4n2avk0/honey/3/a/g/250-honey-dabur-original-imafnhqjazzqmhjv.jpeg?q=70",
+    "packed": true,
+    "item": "Honey"
+  },
+  {
+    "brand": "Dettol",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Dettol Cool",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Pears",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/k9re3rk0/soap/m/8/a/1-125-soft-and-fresh-bathing-bar-pears-original-imafrhk3whysayyp.jpeg?q=70",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Lux",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/j9eirgw0/soap/w/v/g/3-300-soft-touch-beauty-bar-lux-original-imaevzpymff2ca43.jpeg?q=70",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Dove",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/k9re3rk0/soap/n/s/c/3-300-pink-rosa-beauty-bathing-bar-dove-original-imafrhk3pfhymfh2.jpeg?q=70",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Patanjali Neem Kanti",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/k9re3rk0/soap/g/j/u/1-75-neem-kanti-body-cleanser-patanjali-original-imafrhk3frbgb5f2.jpeg?q=70",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Fiama Men Refreshing Pulse Gel",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/jvfk58w0/soap/r/2/r/1-125-refreshing-pulse-gel-bar-fiama-men-original-imafgc5kfgnege3f.jpeg?q=70",
+    "packed": true,
+    "item": "Soaps"
+  },
+  {
+    "brand": "Nivea Pure Impact Power Gel",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/j5jx1u80/body-wash/r/m/5/250-men-pure-impact-shower-gel-nivea-original-imaew7ptkcjg9wja.jpeg?q=70",
+    "packed": true,
+    "item": "Body-Wash"
+  },
+  {
+    "brand": "Nivea Men Active Clean Shower Gel",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/jtbtt3k0/body-wash/y/p/b/250-active-clean-shower-gel-nivea-men-original-imafeph7z6a34mxg.jpeg?q=70",
+    "packed": true,
+    "item": "Body-Wash"
+  },
+  {
+    "brand": "Nivea Energy Shower Gel",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/jtbtt3k0/body-wash/3/h/v/250-energy-shower-gel-nivea-men-original-imafeph76v2ztgcn.jpeg?q=70",
+    "packed": true,
+    "item": "Body-Wash"
+  },
+  {
+    "brand": "Dove Deeply Nourish",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/j9oiufk0/body-wash/5/s/f/190-deeply-nourishing-body-wash-dove-original-imaez6hrkgyp6bm3.jpeg?q=70",
+    "packed": true,
+    "item": "Body-Wash"
+  },
+  {
+    "brand": "Everyuth Naturals",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/ka73y4w0/face-wash/2/7/p/150-moisturising-fruit-everyuth-naturals-original-imafrtp689hhgqt5.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Clean & Clear",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k908qkw0/face-wash/f/g/4/150-foaming-clean-clear-original-imafqw72tx6yrfzg.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Himalaya Purifying Face Wash",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j3xbzww0/face-wash/4/4/s/150-purifying-neem-face-wash-himalaya-original-imaeuyfzgdmythzw.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Garnier Men Power",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k2p1q4w0/face-wash/z/h/g/100-men-power-white-anti-pollution-double-action-garnier-original-imafhzhqxkdv9s7d.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Patanjali Saundarya",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/k8xduvk0/face-wash/e/w/3/60-saundarya-patanjali-original-imafqtrfqc9rgcqj.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Himalaya Men Face & Beard Wash",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/j70sccw0-1/face-wash/v/h/x/80-face-beard-wash-himalaya-original-imaexd2u9wgcd9cv.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Nivea Men All-In-1 Face Wash",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jtbtt3k0/face-wash/v/j/w/100-all-in-1-nivea-men-original-imafeph7z95zkkk9.jpeg?q=70",
+    "packed": true,
+    "item": "Face-Wash"
+  },
+  {
+    "brand": "Patanjali Anti-Bacterial Herbal Hand Wash",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jb890nk0/hand-wash-sanitizer/m/h/g/250-anti-bacterial-herbal-handwash-bottle-patanjali-original-imafymhkwdcy7xzz.jpeg?q=70",
+    "packed": true,
+    "item": "Hand-Wash"
+  },
+  {
+    "brand": "Dettol Original Liquid Hand Wash",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jzn0tjk0/hand-wash-sanitizer/k/d/r/2250-original-liquid-hand-wash-refill-pouch-dettol-original-imafjhxuytp4cmek.jpeg?q=70",
+    "packed": true,
+    "item": "Hand-Wash"
+  },
+  {
+    "brand": "Lifebuoy Total Hand Santinizer",
+    "displayImg": "https://rukminim1.flixcart.com/image/416/416/k8ro3gw0/hand-wash-sanitizer/f/g/2/500-total-hand-sanitizer-bottle-lifebuoy-original-imafqpcsnxfb7qxr.jpeg?q=70",
+    "packed": true,
+    "item": "Hand-Sanitizer"
+  },
+  {
+    "brand": "Tresseme Keratin Smooth",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Loreal Paris",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Clinic Plus Strong & Long Health Shampoo",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Head & Shoulders, Anti Dandruff Shampoo Smooth & Silky",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Head & Shoulders, Cool Menthol Shampoo",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Dove Dandruff Care Shampoo",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Patanjali, Kesh Kanti Natural Hair Cleanser",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Patanjali Kesh Kanti Hair Cleanser with Milk  Protein",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Patanjali Kesh Kanti Anti-Dandruff Hair Cleanser Shampoo",
+    "displayImg": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSrZ_Eq361S12DPanQD7zyS0crviAcpXWY1wonnFfG9GNsHIogCk9I4WONyMhXvCq1Wh8QxYFD_IeNPuCJH-Aa0AZ8vBB47PhUC6zTFQN-gKGzLx0-Gu9RF&usqp=CAE",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Sunsilk, Lusciously Thick & Long Shampoo",
+    "displayImg": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTERcVpf_vgInXDAht6oYNF4EhjnAcpANpcmUAcatADchJQVsDSn4aJMCU422M-5S9kWyPEIgYCrcDL_8H1dMFj3XmIG8abCzkyBZrHmRU&usqp=CAE",
+    "packed": true,
+    "item": "Shampoo"
+  },
+  {
+    "brand": "Dove Hairfall Rescue",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jv5k2a80/conditioner/8/f/q/180-hair-fall-rescue-conditioner-dove-original-imafg486waurgs4z.jpeg?q=70",
+    "packed": true,
+    "item": "Conditioner"
+  },
+  {
+    "brand": "Tresemme",
+    "displayImg": "https://rukminim1.flixcart.com/image/280/280/jp4d4sw0/conditioner/d/g/7/190-keratin-smooth-with-argan-oil-conditioner-tresemme-original-imafbfftnu3hqjpu.jpeg?q=70",
+    "packed": true,
+    "item": "Conditioner"
+  },
+  {
+    "brand": "Dabur Almond Hair Oil",
+    "displayImg": "default.png",
+    "packed": true,
+    "item": "Hair-Oil"
+  },
+  {
+    "brand": "Bajaj Almond Drops",
+    "displayImg": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTnyYlL75xaDrSnZnujGU46FQne3gaqPBsvgCFr2Gy1CgOQoDzyW2RJETQ4cEs9BaOOHcj5_kIN9Day-zGYaaX1qRoSgzt13qMfHs7gB3lRfh9R1beuHFal&usqp=CAE",
+    "packed": true,
+    "item": "Hair-Oil"
+  }
+]
