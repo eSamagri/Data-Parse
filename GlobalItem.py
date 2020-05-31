@@ -82,9 +82,10 @@ globalItemDb = []
 for gCategory in newData2.keys():
     for gItem in newData2[gCategory]:
         hindiName = translator.translate(str(gItem), dest="hi").text
+        print(hindiName)
         temp = {
-            "_id": gItem,
-            "HindiBrand": repr(hindiName.encode("utf-8")),
+            "item": gItem,
+            "itemInHindi": hindiName,
             "category": gCategory,
             "unit": "/".join(list(newData[gItem]["unit"])),
             "quantifier": "/".join(list(newData[gItem]["quantifier"])),
@@ -93,5 +94,15 @@ for gCategory in newData2.keys():
         globalItemDb.append(temp)
 
 
-with open("GlobalItem.json", "w") as json_file:
+with open("GlobalItem.json", "w", encoding="utf-8") as json_file:
     json.dump(globalItemDb, json_file)
+categoryDb = []
+for gCategory in newData2.keys():
+    temp = {
+        "category": gCategory,
+        "categoryInHindi": translator.translate(str(gCategory), dest="hi").text,
+    }
+    categoryDb.append(temp)
+
+with open("GlobalCategory.json", "w", encoding="utf-8") as json_file:
+    json.dump(categoryDb, json_file)
