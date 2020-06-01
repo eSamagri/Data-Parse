@@ -23,6 +23,7 @@ for key in data["products"]:
         unit = "gm"
 
     price = product["mrp"]
+    print(price)
     if "{" in price:
         fprice = {}
         unwanted = ["{", "}", " "]

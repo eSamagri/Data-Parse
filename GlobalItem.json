@@ -1,1 +1,944 @@
-[{"_id": "Kali-Mirch", "itemInHindi": "\u0915\u0932\u0940-\u092e\u093f\u0930\u094d\u091a", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 600}}}, {"_id": "Elaichi-Powder", "itemInHindi": "\u0907\u0932\u093e\u092f\u091a\u0940 \u092a\u093e\u0909\u0921\u0930", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 2500}}}, {"_id": "Chat-Masala", "itemInHindi": "\u092a\u094d\u0930\u0924\u093f\u092e\u093e", "category": "Masalas", "unit": "gm", "quantifier": "QN", "Prices": {"MDH ": {"100 gm": 63}, "Catch": {"50 gm": 32}}}, {"_id": "Garam-Masala", "itemInHindi": "\u0917\u0930\u092e-\u092e\u0938\u093e\u0932\u093e", "category": "Masalas", "unit": "kg/gm", "quantifier": "QN/Q", "Prices": {"Catch": {"100 gm": 70}, "Unpackaged": {"price": 270}}}, {"_id": "Sambhar-Masala", "itemInHindi": "\u0938\u093e\u0902\u092d\u0930-\u092e\u0938\u093e\u0932\u093e", "category": "Masalas", "unit": "/gm", "quantifier": "/QN", "Prices": {"Everest": {"50 gm": 34}}}, {"_id": "Ajwain", "itemInHindi": "\u0905\u091c\u0935\u093e\u092f\u0928", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 250}}}, {"_id": "Jeera-Powder", "itemInHindi": "\u091c\u0940\u0930\u093e \u091a\u0942\u0930\u094d\u0923", "category": "Masalas", "unit": "kg/gm", "quantifier": "QN/Q", "Prices": {"Everest": {"100 gm": 51}, "Unpackaged": {"price": 220}}}, {"_id": "Chicken-Masala", "itemInHindi": "\u091a\u093f\u0915\u0928 \u092e\u0938\u093e\u0932\u093e", "category": "Masalas", "unit": "gm", "quantifier": "QN", "Prices": {"Everest": {"100 gm": 72}}}, {"_id": "Sarso", "itemInHindi": "\u0938\u0930\u0938\u094b", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 115}}}, {"_id": "Maggi-Masala-Magic", "itemInHindi": "\u092e\u0948\u0917\u0940-\u092e\u0938\u093e\u0932\u093e-\u091c\u093e\u0926\u0942", "category": "Masalas", "unit": "piece", "quantifier": "QN", "Prices": {"Maggi": {"price": 5}}}, {"_id": "Elaichi", "itemInHindi": "\u0907\u0932\u093e\u0907\u091a\u0940", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 4000}}}, {"_id": "Hing", "itemInHindi": "\u0905\u0928\u094d\u0924: \u092e\u0928", "category": "Masalas", "unit": "gm", "quantifier": "QN", "Prices": {"Catch": {"10 gm": 16}, "Patanjali": {"40 gm": 25}}}, {"_id": "Sabji-Masala", "itemInHindi": "\u0938\u092c\u094d\u091c\u0940-\u092e\u0938\u093e\u0932\u093e", "category": "Masalas", "unit": "kg/gm", "quantifier": "QN/Q", "Prices": {"Everest": {"50 gm": 29, "100 gm": 54, "250 gm": 133}, "Catch": {"100 gm": 54}, "Unpackaged ": {"price": 380}}}, {"_id": "Lal-Mirch", "itemInHindi": "\u0932\u093e\u0932-\u092e\u093f\u0930\u094d\u091a", "category": "Masalas", "unit": "kg/gm", "quantifier": "Q", "Prices": {"MDH": {"100 gm": 33}, "Unpackaged": {"price": 350}}}, {"_id": "Meat-Masala", "itemInHindi": "\u092e\u093e\u0902\u0938-\u092e\u0938\u093e\u0932\u093e", "category": "Masalas", "unit": "gm", "quantifier": "QN", "Prices": {"MDH": {"100 gm": 71}, "Everest": {"100 gm": 72}}}, {"_id": "Methi", "itemInHindi": "\u092e\u0947\u0925\u0940", "category": "Masalas", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 100}}}, {"_id": "Dhaniya-Powder", "itemInHindi": "\u0927\u0928\u093f\u092f\u093e-\u092a\u093e\u0909\u0921\u0930", "category": "Masalas", "unit": "kg/gm", "quantifier": "QN/Q", "Prices": {"Everest": {"500 gm": 133}, "MDH": {"100 gm": 30}, "Unpackaged": {"price": 270}}}, {"_id": "Haldi", "itemInHindi": "\u0939\u0932\u094d\u0926\u0940", "category": "Masalas", "unit": "gm", "quantifier": "QN", "Prices": {"Catch": {"100 gm": 28, "200 gm": 55}, "Everest": {"200 gm": 55, "500 gm": 133}, "MDH": {"100 gm": 28, "200 gm": 55}}}, {"_id": "Basmati-Rice", "itemInHindi": "\u092c\u093e\u0938\u092e\u0924\u0940 \u091a\u093e\u0935\u0932", "category": "Rice", "unit": "kg", "quantifier": "QN", "Prices": {"Kohinoor": {"1 kg": 105, "5 kg": 515}, "India Gate": {"1 kg": 98, "5 kg": 485}}}, {"_id": "Arwa-Chawal", "itemInHindi": "Arwa-\u091a\u093e\u0935\u0932", "category": "Rice", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 45}}}, {"_id": "Usina-Chawal", "itemInHindi": "\u0909\u0938\u0940\u0928\u093e-\u091a\u093e\u0935\u0932", "category": "Rice", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 40}}}, {"_id": "Sona-Masoori-Rice", "itemInHindi": "\u0938\u094b\u0928\u093e-\u092e\u0938\u0942\u0930\u0940-\u0930\u093e\u0907\u0938", "category": "Rice", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 55}}}, {"_id": "Dates", "itemInHindi": "\u0916\u091c\u0942\u0930", "category": "Dry-Fruits", "unit": "gm", "quantifier": "QN", "Prices": {"LION": {"250 gm": 124, "500 gm": 235}}}, {"_id": "Raisins-(Kishmis)", "itemInHindi": "\u0930\u0948\u0938\u093f\u0928\u094d\u0938-(\u0915\u093f\u0936\u092e\u093f\u0938)", "category": "Dry-Fruits", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 220}}}, {"_id": "Almonds", "itemInHindi": "\u092c\u093e\u0926\u093e\u092e", "category": "Dry-Fruits", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 750}}}, {"_id": "Jaggery-(-Gud)", "itemInHindi": "\u0917\u0941\u0921\u093c - (- \u092d\u0917\u0935\u093e\u0928)", "category": "Sugar-Jaggery-&-Salt", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 50}}}, {"_id": "Sugar", "itemInHindi": "\u091a\u0940\u0928\u0940", "category": "Sugar-Jaggery-&-Salt", "unit": "kg", "quantifier": "Q", "Prices": {"Unpackaged": {"price": 40}}}, {"_id": "Marie-Digestives", "itemInHindi": "\u092e\u0948\u0930\u0940 \u092a\u093e\u091a\u0928", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "PN", "Prices": {"Britannia Marie Gold": {"price": -1}}}, {"_id": "Instant-Coffee", "itemInHindi": "\u0924\u0941\u0930\u0902\u0924 \u0915\u0949\u092b\u0940", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "PN/QN", "Prices": {"Nescafe Coffee": {"price": -1}, "Bru": {"price": -1}}}, {"_id": "Papad", "itemInHindi": "\u092a\u093e\u092a\u095c", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "QN", "Prices": {"Lijjat Papad": {"price": 70}}}, {"_id": "Rusk", "itemInHindi": "\u0938\u0942\u0916\u0940 \u0930\u094b\u091f\u0940", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "QN", "Prices": {"Rusk ": {"price": 40}}}, {"_id": "Namkeen", "itemInHindi": "\u0928\u092e\u0915\u0940\u0928", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "QN", "Prices": {"Haldiram Bhujia": {"price": -1}, "Bikaji Bhujia ": {"price": -1}, "Mangal Daalmot": {"price": -1}}}, {"_id": "Tea", "itemInHindi": "\u091a\u093e\u092f", "category": "Snacks-&-Beverages", "unit": "piece/gm", "quantifier": "QN", "Prices": {"Tata Tea": {"price": -1}, "Red Label": {"price": -1}, "Taj Mahal": {"price": -1}}}, {"_id": "Chawanprash", "itemInHindi": "\u092c\u093e\u0909\u0932 \u092a\u0940 \u090f\u091f \u0905\u0932 \u0936", "category": "Snacks-&-Beverages", "unit": "gm", "quantifier": "QN", "Prices": {"Dabur Chawanprash": {"price": -1}}}, {"_id": "Green-Tea", "itemInHindi": "\u0939\u0930\u0940 \u091a\u093e\u092f", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "QN", "Prices": {"Lipton Green Tea": {"price": -1}}}, {"_id": "Nutritional-Drink", "itemInHindi": "\u092a\u094b\u0937\u093e\u0939\u093e\u0930-\u092a\u0940", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "QN", "Prices": {"Bourn Vita": {"price": -1}, "Horlicks": {"price": -1}, "Complan ": {"price": 315}, "Boost": {"price": -1}}}, {"_id": "Glucose", "itemInHindi": "\u0936\u0930\u094d\u0915\u0930\u093e", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "PN/QN", "Prices": {"Dabour Glucose (Plain)": {"price": -1}, "Dabour Glucose (Nimbu Pani)": {"price": -1}, "Dabour Glucose (Orange)": {"price": -1}}}, {"_id": "Cookies", "itemInHindi": "\u0915\u0941\u0915\u0940\u091c\u093c", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "PN", "Prices": {"Unibic": {"price": -1}, "Good Day": {"price": -1}, "Hide & Seek": {"price": -1}}}, {"_id": "Cream-Biscuits", "itemInHindi": "\u0915\u094d\u0930\u0940\u092e \u092c\u093f\u0938\u094d\u0915\u0941\u091f", "category": "Snacks-&-Beverages", "unit": "piece", "quantifier": "PN", "Prices": {"Oreo": {"price": -1}, "Tiger": {"price": -1}, "Sunfeast Dark Fantasy": {"price": -1}, "Britannia Treat Jim Jam ": {"price": 35}, "Bourban": {"price": -1}}}, {"_id": "Honey", "itemInHindi": "\u0936\u0939\u0926", "category": "Packaged-Food", "unit": "gm", "quantifier": "QN", "Prices": {"Patanjali Honey": {"250 gm": 75, "500 gm": 145, "1000 gm": 275}, "Dabur Honey": {"100 gm": 62, "250 gm": 99}}}, {"_id": "Tomato-Ketchups", "itemInHindi": "\u091f\u092e\u093e\u091f\u0930 \u0915\u0940 \u091a\u091f\u0928\u0940", "category": "Packaged-Food", "unit": "piece", "quantifier": "QN", "Prices": {"Kissan Ketchup": {"950 piece": 130, "1000 piece": 160}}}, {"_id": "Vermicelli", "itemInHindi": "\u0938\u0947\u0935\u0908", "category": "Packaged-Food", "unit": "piece", "quantifier": "PN", "Prices": {"Vermicelli (Sewai)": {"price": [10, 20]}}}, {"_id": "Jam", "itemInHindi": "\u0918\u0902\u091f\u093e", "category": "Packaged-Food", "unit": "gm", "quantifier": "QN", "Prices": {"Kissan Jam ": {"200 gm": 65, "500 gm": 150, "700 gm": 215, "1000 gm": 280}}}, {"_id": "Noodles", "itemInHindi": "\u0928\u0942\u0921\u0932\u094d\u0938", "category": "Packaged-Food", "unit": "piece", "quantifier": "PN", "Prices": {"Maggi": {"price": [5, 12, 45, 65, 115]}, "Top Ramen": {"price": [5, 10]}, "Yippie ": {"price": [5, 10]}, "Patanjali Noodles ": {"price": [5, 10]}}}, {"_id": "Pasta", "itemInHindi": "\u092a\u0926", "category": "Packaged-Food", "unit": "piece", "quantifier": "PN", "Prices": {"Maggi Pazzta": {"price": 25}}}, {"_id": "Body-Wash", "itemInHindi": "\u0936\u0930\u0940\u0930 \u0927\u094b\u0928\u093e", "category": "Soaps-&-Hair-Care", "unit": "piece", "quantifier": "N", "Prices": {"Nivea Pure Impact Power Gel": {"price": 199}, "Nivea Men Active Clean Shower Gel": {"price": 199}, "Nivea Energy Shower Gel": {"price": 199}, "Dove Deeply Nourish": {"price": 140}}}, {"_id": "Soaps", "itemInHindi": "\u0938\u093e\u092c\u0941\u0928", "category": "Soaps-&-Hair-Care", "unit": "piece", "quantifier": "N/QN", "Prices": {"Dettol": {"price": 24}, "Dettol Cool": {"price": 25}, "Pears": {"price": 60}, "Lux": {"price": 38}, "Dove": {"price": 20}, "Patanjali Neem Kanti": {"price": 15}, "Fiama Men Refreshing Pulse Gel": {"price": 60}}}, {"_id": "Shampoo", "itemInHindi": "\u0936\u0948\u092e\u094d\u092a\u0942", "category": "Soaps-&-Hair-Care", "unit": "ml", "quantifier": "QN", "Prices": {"Tresseme Keratin Smooth": {"185 ml": 130, "340 ml": 238}, "Loreal Paris": {"360 ml": 135, "75 ml": 60}, "Clinic Plus Strong & Long Health Shampoo": {"175 ml": 71, "340 ml": 153}, "Head & Shoulders, Anti Dandruff Shampoo Smooth & Silky": {"340 ml": 299, "72 ml": 68}, "Head & Shoulders, Cool Menthol Shampoo": {"180 ml": 145, "340 ml": 250}, "Dove Dandruff Care Shampoo": {"180 ml": 145, "340 ml": 233, "650 ml": 530}, "Patanjali, Kesh Kanti Natural Hair Cleanser": {"200 ml": 113}, "Patanjali Kesh Kanti Hair Cleanser with Milk  Protein": {"200 ml": 95}, "Patanjali Kesh Kanti Anti-Dandruff Hair Cleanser Shampoo": {"200 ml": 105}, "Sunsilk, Lusciously Thick & Long Shampoo": {"180 ml": 120, "340 ml": 175}}}, {"_id": "Hair-Oil", "itemInHindi": "\u0915\u0947\u0936 \u0924\u0947\u0932", "category": "Soaps-&-Hair-Care", "unit": "ml", "quantifier": "QN", "Prices": {"Dabur Almond Hair Oil": {"50 ml": 30, "500 ml": 196}, "Bajaj Almond Drops": {"100 ml": 62, "200 ml": 140}}}, {"_id": "Hand-Wash", "itemInHindi": "\u0939\u093e\u0925 \u0927\u094b\u0928\u093e", "category": "Soaps-&-Hair-Care", "unit": "ml", "quantifier": "QN", "Prices": {"Patanjali Anti-Bacterial Herbal Hand Wash": {"250 ml": 60}, "Dettol Original Liquid Hand Wash": {"750 ml": 109}}}, {"_id": "Face-Wash", "itemInHindi": "\u091a\u0947\u0939\u0930\u093e \u0927\u094b\u090f\u0902", "category": "Soaps-&-Hair-Care", "unit": "piece/ml/gm", "quantifier": "N/QN", "Prices": {"Everyuth Naturals": {"price": 135}, "Clean & Clear": {"150 ml": 165}, "Himalaya Purifying Face Wash": {"150 ml": 155}, "Garnier Men Power": {"100 gm": 180}, "Patanjali Saundarya": {"price": 60}, "Himalaya Men Face & Beard Wash": {"80 ml": 175}, "Nivea Men All-In-1 Face Wash": {"100 gm": 250}}}, {"_id": "Conditioner", "itemInHindi": "\u0915\u0902\u0921\u0940\u0936\u0928\u0930", "category": "Soaps-&-Hair-Care", "unit": "piece/ml", "quantifier": "QN", "Prices": {"Dove Hairfall Rescue": {"price": 190}, "Tresemme": {"190 ml": 220}}}, {"_id": "Hand-Sanitizer", "itemInHindi": "\u0939\u0948\u0902\u0921 \u0938\u0948\u0928\u093f\u091f\u093e\u0907\u091c\u093c\u0930", "category": "Soaps-&-Hair-Care", "unit": "ml", "quantifier": "QN", "Prices": {"Lifebuoy Total Hand Santinizer": {"500 ml": 250}}}]
+[
+  {
+    "_id": "Haldi",
+    "itemInHindi": "\u0939\u0932\u094d\u0926\u0940",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "QN/Q",
+    "Prices": {
+      "Catch": { "100 gm": 28, "200 gm": 55 },
+      "Everest": { "200 gm": 55, "500 gm": 133 },
+      "MDH": { "100 gm": 28, "200 gm": 55 },
+      "Unpackaged": { "price": 150 }
+    }
+  },
+  {
+    "_id": "Jeera-Powder",
+    "itemInHindi": "\u091c\u0940\u0930\u093e \u091a\u0942\u0930\u094d\u0923",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "QN/Q",
+    "Prices": { "Everest": { "100 gm": 51 }, "Unpackaged": { "price": 220 } }
+  },
+  {
+    "_id": "Chat-Masala",
+    "itemInHindi": "\u092a\u094d\u0930\u0924\u093f\u092e\u093e",
+    "category": "Masalas",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "MDH ": { "100 gm": 63 }, "Catch": { "50 gm": 32 } }
+  },
+  {
+    "_id": "Meat-Masala",
+    "itemInHindi": "\u092e\u093e\u0902\u0938-\u092e\u0938\u093e\u0932\u093e",
+    "category": "Masalas",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "MDH": { "100 gm": 71 }, "Everest": { "100 gm": 72 } }
+  },
+  {
+    "_id": "Kali-Mirch",
+    "itemInHindi": "\u0915\u0932\u0940-\u092e\u093f\u0930\u094d\u091a",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 600 } }
+  },
+  {
+    "_id": "Elaichi-Powder",
+    "itemInHindi": "\u0907\u0932\u093e\u092f\u091a\u0940 \u092a\u093e\u0909\u0921\u0930",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 2500 } }
+  },
+  {
+    "_id": "Sambhar-Masala",
+    "itemInHindi": "\u0938\u093e\u0902\u092d\u0930-\u092e\u0938\u093e\u0932\u093e",
+    "category": "Masalas",
+    "unit": "/gm",
+    "quantifier": "/QN",
+    "Prices": { "Everest": { "50 gm": 34 } }
+  },
+  {
+    "_id": "Lal-Mirch",
+    "itemInHindi": "\u0932\u093e\u0932-\u092e\u093f\u0930\u094d\u091a",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "Q",
+    "Prices": { "MDH": { "100 gm": 33 }, "Unpackaged": { "price": 350 } }
+  },
+  {
+    "_id": "Sabji-Masala",
+    "itemInHindi": "\u0938\u092c\u094d\u091c\u0940-\u092e\u0938\u093e\u0932\u093e",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "QN/Q",
+    "Prices": {
+      "Everest": { "50 gm": 29, "100 gm": 54, "250 gm": 133 },
+      "Catch": { "100 gm": 54 },
+      "Unpackaged ": { "price": 380 }
+    }
+  },
+  {
+    "_id": "Ajwain",
+    "itemInHindi": "\u0905\u091c\u0935\u093e\u092f\u0928",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 250 } }
+  },
+  {
+    "_id": "Elaichi",
+    "itemInHindi": "\u0907\u0932\u093e\u0907\u091a\u0940",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 4000 } }
+  },
+  {
+    "_id": "Maggi-Masala-Magic",
+    "itemInHindi": "\u092e\u0948\u0917\u0940-\u092e\u0938\u093e\u0932\u093e-\u091c\u093e\u0926\u0942",
+    "category": "Masalas",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": { "Maggi": { "price": 5 } }
+  },
+  {
+    "_id": "Garam-Masala",
+    "itemInHindi": "\u0917\u0930\u092e-\u092e\u0938\u093e\u0932\u093e",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "QN/Q",
+    "Prices": { "Catch": { "100 gm": 70 }, "Unpackaged": { "price": 270 } }
+  },
+  {
+    "_id": "Sarso",
+    "itemInHindi": "\u0938\u0930\u0938\u094b",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 115 } }
+  },
+  {
+    "_id": "Chicken-Masala",
+    "itemInHindi": "\u091a\u093f\u0915\u0928 \u092e\u0938\u093e\u0932\u093e",
+    "category": "Masalas",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "Everest": { "100 gm": 72 } }
+  },
+  {
+    "_id": "Methi",
+    "itemInHindi": "\u092e\u0947\u0925\u0940",
+    "category": "Masalas",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 100 } }
+  },
+  {
+    "_id": "Hing",
+    "itemInHindi": "\u0905\u0928\u094d\u0924: \u092e\u0928",
+    "category": "Masalas",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "Catch": { "10 gm": 16 }, "Patanjali": { "40 gm": 25 } }
+  },
+  {
+    "_id": "Dhaniya-Powder",
+    "itemInHindi": "\u0927\u0928\u093f\u092f\u093e-\u092a\u093e\u0909\u0921\u0930",
+    "category": "Masalas",
+    "unit": "kg/gm",
+    "quantifier": "QN/Q",
+    "Prices": {
+      "Everest": { "500 gm": 133 },
+      "MDH": { "100 gm": 30 },
+      "Unpackaged": { "price": 270 }
+    }
+  },
+  {
+    "_id": "Basmati-Rice",
+    "itemInHindi": "\u092c\u093e\u0938\u092e\u0924\u0940 \u091a\u093e\u0935\u0932",
+    "category": "Rice",
+    "unit": "kg",
+    "quantifier": "QN",
+    "Prices": {
+      "Kohinoor": { "1 kg": 105, "5 kg": 515 },
+      "India Gate": { "1 kg": 98, "5 kg": 485 }
+    }
+  },
+  {
+    "_id": "Usina-Chawal",
+    "itemInHindi": "\u0909\u0938\u0940\u0928\u093e-\u091a\u093e\u0935\u0932",
+    "category": "Rice",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 40 } }
+  },
+  {
+    "_id": "Sona-Masoori-Rice",
+    "itemInHindi": "\u0938\u094b\u0928\u093e-\u092e\u0938\u0942\u0930\u0940-\u0930\u093e\u0907\u0938",
+    "category": "Rice",
+    "unit": "kg",
+    "quantifier": "QN/Q",
+    "Prices": {
+      "24 Mantra": { "1 kg": 95, "5 kg": 475 },
+      "Unpackaged": { "price": 55 }
+    }
+  },
+  {
+    "_id": "Arwa-Chawal",
+    "itemInHindi": "Arwa-\u091a\u093e\u0935\u0932",
+    "category": "Rice",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 45 } }
+  },
+  {
+    "_id": "Raisins-(Kishmis)",
+    "itemInHindi": "\u0930\u0948\u0938\u093f\u0928\u094d\u0938-(\u0915\u093f\u0936\u092e\u093f\u0938)",
+    "category": "Dry-Fruits",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 220 } }
+  },
+  {
+    "_id": "Dates",
+    "itemInHindi": "\u0916\u091c\u0942\u0930",
+    "category": "Dry-Fruits",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "LION": { "250 gm": 124, "500 gm": 235 } }
+  },
+  {
+    "_id": "Almonds",
+    "itemInHindi": "\u092c\u093e\u0926\u093e\u092e",
+    "category": "Dry-Fruits",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 750 } }
+  },
+  {
+    "_id": "Jaggery-(-Gud)",
+    "itemInHindi": "\u0917\u0941\u0921\u093c - (- \u092d\u0917\u0935\u093e\u0928)",
+    "category": "Sugar-Jaggery-&-Salt",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 50 } }
+  },
+  {
+    "_id": "Sugar",
+    "itemInHindi": "\u091a\u0940\u0928\u0940",
+    "category": "Sugar-Jaggery-&-Salt",
+    "unit": "kg",
+    "quantifier": "Q",
+    "Prices": { "Unpackaged": { "price": 40 } }
+  },
+  {
+    "_id": "Rusk",
+    "itemInHindi": "\u0938\u0942\u0916\u0940 \u0930\u094b\u091f\u0940",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": { "Rusk ": { "price": 40 } }
+  },
+  {
+    "_id": "Tea",
+    "itemInHindi": "\u091a\u093e\u092f",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece/gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Tata Tea": { "price": -1 },
+      "Red Label": { "price": -1 },
+      "Taj Mahal": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Glucose",
+    "itemInHindi": "\u0936\u0930\u094d\u0915\u0930\u093e",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN/PN",
+    "Prices": {
+      "Dabour Glucose (Plain)": { "price": -1 },
+      "Dabour Glucose (Nimbu Pani)": { "price": -1 },
+      "Dabour Glucose (Orange)": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Instant-Coffee",
+    "itemInHindi": "\u0924\u0941\u0930\u0902\u0924 \u0915\u0949\u092b\u0940",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN/PN",
+    "Prices": { "Nescafe Coffee": { "price": -1 }, "Bru": { "price": -1 } }
+  },
+  {
+    "_id": "Cookies",
+    "itemInHindi": "\u0915\u0941\u0915\u0940\u091c\u093c",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": {
+      "Unibic": { "price": -1 },
+      "Good Day": { "price": -1 },
+      "Hide & Seek": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Chawanprash",
+    "itemInHindi": "\u092c\u093e\u0909\u0932 \u092a\u0940 \u090f\u091f \u0905\u0932 \u0936",
+    "category": "Snacks-&-Beverages",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "Dabur Chawanprash": { "price": -1 } }
+  },
+  {
+    "_id": "Papad",
+    "itemInHindi": "\u092a\u093e\u092a\u095c",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": { "Lijjat Papad": { "price": 70 } }
+  },
+  {
+    "_id": "Marie-Digestives",
+    "itemInHindi": "\u092e\u0948\u0930\u0940 \u092a\u093e\u091a\u0928",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": { "Britannia Marie Gold": { "price": -1 } }
+  },
+  {
+    "_id": "Nutritional-Drink",
+    "itemInHindi": "\u092a\u094b\u0937\u093e\u0939\u093e\u0930-\u092a\u0940",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": {
+      "Bourn Vita": { "price": -1 },
+      "Horlicks": { "price": -1 },
+      "Complan ": { "price": 315 },
+      "Boost": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Namkeen",
+    "itemInHindi": "\u0928\u092e\u0915\u0940\u0928",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": {
+      "Haldiram Bhujia": { "price": -1 },
+      "Bikaji Bhujia ": { "price": -1 },
+      "Mangal Mixture": { "price": -1 },
+      "Mangal Daalmot": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Green-Tea",
+    "itemInHindi": "\u0939\u0930\u0940 \u091a\u093e\u092f",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": { "Lipton Green Tea": { "price": -1 } }
+  },
+  {
+    "_id": "Cream-Biscuits",
+    "itemInHindi": "\u0915\u094d\u0930\u0940\u092e \u092c\u093f\u0938\u094d\u0915\u0941\u091f",
+    "category": "Snacks-&-Beverages",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": {
+      "Oreo": { "price": -1 },
+      "Tiger": { "price": -1 },
+      "Sunfeast Dark Fantasy": { "price": -1 },
+      "Britannia Treat Jim Jam ": { "price": 35 },
+      "Bourban": { "price": -1 }
+    }
+  },
+  {
+    "_id": "Jam",
+    "itemInHindi": "\u0918\u0902\u091f\u093e",
+    "category": "Packaged-Food",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Kissan Jam ": {
+        "200 gm": 65,
+        "500 gm": 150,
+        "700 gm": 215,
+        "1000 gm": 280
+      }
+    }
+  },
+  {
+    "_id": "Vermicelli",
+    "itemInHindi": "\u0938\u0947\u0935\u0908",
+    "category": "Packaged-Food",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": { "Vermicelli (Sewai)": { "price": [10, 20] } }
+  },
+  {
+    "_id": "Noodles",
+    "itemInHindi": "\u0928\u0942\u0921\u0932\u094d\u0938",
+    "category": "Packaged-Food",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": {
+      "Maggi": { "price": [5, 12, 45, 65, 115] },
+      "Top Ramen": { "price": [5, 10] },
+      "Yippie ": { "price": [5, 10] },
+      "Patanjali Noodles ": { "price": [5, 10] }
+    }
+  },
+  {
+    "_id": "Honey",
+    "itemInHindi": "\u0936\u0939\u0926",
+    "category": "Packaged-Food",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Patanjali Honey": { "250 gm": 75, "500 gm": 145, "1000 gm": 275 },
+      "Dabur Honey": { "100 gm": 62, "250 gm": 99 }
+    }
+  },
+  {
+    "_id": "Pasta",
+    "itemInHindi": "\u092a\u0926",
+    "category": "Packaged-Food",
+    "unit": "piece",
+    "quantifier": "PN",
+    "Prices": { "Maggi Pazzta": { "price": 25 } }
+  },
+  {
+    "_id": "Tomato-Ketchups",
+    "itemInHindi": "\u091f\u092e\u093e\u091f\u0930 \u0915\u0940 \u091a\u091f\u0928\u0940",
+    "category": "Packaged-Food",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": { "Kissan Ketchup": { "950 piece": 130, "1000 piece": 160 } }
+  },
+  {
+    "_id": "Hair-Oil",
+    "itemInHindi": "\u0915\u0947\u0936 \u0924\u0947\u0932",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Dabur Almond Hair Oil": { "50 ml": 30, "500 ml": 196 },
+      "Bajaj Almond Drops": { "100 ml": 62, "200 ml": 140 },
+      "Dabur Amla": { "180 ml": 88, "275 ml": 134, "450 ml": 199 },
+      "Hair & Care": { "300 ml": 140, "500 ml": 240 },
+      "Kesh King": { "100 ml": 160, "200 ml": 320 },
+      "Patanjali ": { "100 ml": 40 },
+      "Navratna Cool": { "300 ml": 182, "500 ml": 295 }
+    }
+  },
+  {
+    "_id": "Face-Wash",
+    "itemInHindi": "\u091a\u0947\u0939\u0930\u093e \u0927\u094b\u090f\u0902",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "gm/piece/ml",
+    "quantifier": "N/QN",
+    "Prices": {
+      "Everyuth Naturals": { "price": 135 },
+      "Clean & Clear": { "150 ml": 165 },
+      "Himalaya Purifying Face Wash": { "150 ml": 155 },
+      "Garnier Men Power": { "100 gm": 180 },
+      "Patanjali Saundarya": { "price": 60 },
+      "Himalaya Men Face & Beard Wash": { "80 ml": 175 },
+      "Nivea Men All-In-1 Face Wash": { "100 gm": 250 }
+    }
+  },
+  {
+    "_id": "Body-Wash",
+    "itemInHindi": "\u0936\u0930\u0940\u0930 \u0927\u094b\u0928\u093e",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "piece",
+    "quantifier": "N",
+    "Prices": {
+      "Nivea Pure Impact Power Gel": { "price": 199 },
+      "Nivea Men Active Clean Shower Gel": { "price": 199 },
+      "Nivea Energy Shower Gel": { "price": 199 },
+      "Dove Deeply Nourish": { "price": 140 }
+    }
+  },
+  {
+    "_id": "Soaps",
+    "itemInHindi": "\u0938\u093e\u092c\u0941\u0928",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "piece",
+    "quantifier": "N/QN",
+    "Prices": {
+      "Dettol": { "price": 24 },
+      "Dettol Cool": { "price": 25 },
+      "Pears": { "price": 60 },
+      "Lux": { "price": 38 },
+      "Dove": { "price": 20 },
+      "Patanjali Neem Kanti": { "price": 15 },
+      "Fiama Men Refreshing Pulse Gel": { "price": 60 }
+    }
+  },
+  {
+    "_id": "Conditioner",
+    "itemInHindi": "\u0915\u0902\u0921\u0940\u0936\u0928\u0930",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "piece/ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Dove Hairfall Rescue": { "price": 190 },
+      "Tresemme": { "190 ml": 220 }
+    }
+  },
+  {
+    "_id": "Hand-Wash",
+    "itemInHindi": "\u0939\u093e\u0925 \u0927\u094b\u0928\u093e",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Patanjali Anti-Bacterial Herbal Hand Wash": { "250 ml": 60 },
+      "Dettol Original Liquid Hand Wash": { "750 ml": 109 }
+    }
+  },
+  {
+    "_id": "Hand-Sanitizer",
+    "itemInHindi": "\u0939\u0948\u0902\u0921 \u0938\u0948\u0928\u093f\u091f\u093e\u0907\u091c\u093c\u0930",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": { "Lifebuoy Total Hand Santinizer": { "500 ml": 250 } }
+  },
+  {
+    "_id": "Shampoo",
+    "itemInHindi": "\u0936\u0948\u092e\u094d\u092a\u0942",
+    "category": "Soaps-&-Hair-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Tresseme Keratin Smooth": { "185 ml": 130, "340 ml": 238 },
+      "Loreal Paris": { "360 ml": 135, "75 ml": 60 },
+      "Clinic Plus Strong & Long Health Shampoo": {
+        "175 ml": 71,
+        "340 ml": 153
+      },
+      "Head & Shoulders, Anti Dandruff Shampoo Smooth & Silky": {
+        "340 ml": 299,
+        "72 ml": 68
+      },
+      "Head & Shoulders, Cool Menthol Shampoo": {
+        "180 ml": 145,
+        "340 ml": 250
+      },
+      "Dove Dandruff Care Shampoo": {
+        "180 ml": 145,
+        "340 ml": 233,
+        "650 ml": 530
+      },
+      "Patanjali, Kesh Kanti Natural Hair Cleanser": { "200 ml": 113 },
+      "Patanjali Kesh Kanti Hair Cleanser with Milk  Protein": { "200 ml": 95 },
+      "Patanjali Kesh Kanti Anti-Dandruff Hair Cleanser Shampoo": {
+        "200 ml": 105
+      },
+      "Sunsilk, Lusciously Thick & Long Shampoo": {
+        "180 ml": 120,
+        "340 ml": 175
+      }
+    }
+  },
+  {
+    "_id": "Hair-Colour",
+    "itemInHindi": "\u092c\u093e\u0932\u094b\u0902 \u0915\u093e \u0930\u0902\u0917",
+    "category": "Soaps-Hair-Care-&-Body-Wash",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "L'Oreal Paris Excellence Creme Gloss": { "590 gm": 100 },
+      "Godrej Expert Rich Creme ": { "62 gm": 99 },
+      "Garnier Men Color Naturals ": { "30 gm": 115 },
+      "Garnier Color Naturals Creme ": { "60 gm": 180 }
+    }
+  },
+  {
+    "_id": "Hair-Oil",
+    "itemInHindi": "\u0915\u0947\u0936 \u0924\u0947\u0932",
+    "category": "Soaps-Hair-Care-&-Body-Wash",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Dabur Almond Hair Oil": { "50 ml": 30, "500 ml": 196 },
+      "Bajaj Almond Drops": { "100 ml": 62, "200 ml": 140 },
+      "Dabur Amla": { "180 ml": 88, "275 ml": 134, "450 ml": 199 },
+      "Hair & Care": { "300 ml": 140, "500 ml": 240 },
+      "Kesh King": { "100 ml": 160, "200 ml": 320 },
+      "Patanjali ": { "100 ml": 40 },
+      "Navratna Cool": { "300 ml": 182, "500 ml": 295 }
+    }
+  },
+  {
+    "_id": "Creams-&-Foam",
+    "itemInHindi": "\u0915\u094d\u0930\u0940\u092e - \u0914\u0930 - \u092b\u094b\u092e",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Gillette Sensitive Skin with Aloe": { "60 gm": 85 },
+      "Gillette Regular Pre Shave Foam": {
+        "50 gm": 85,
+        "196 gm": 125,
+        "280 gm": 199
+      }
+    }
+  },
+  {
+    "_id": "After-Shave",
+    "itemInHindi": "\u092c\u093e\u0926-\u0936\u0947\u0935",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": { "Nivea Men ": { "100 ml": 167 } }
+  },
+  {
+    "_id": "Mouthwash",
+    "itemInHindi": "mouthwash",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Listerine Cool Mint": { "80 ml": 55, "250 ml": 140, "500 ml": 245 },
+      "Colgate Plax": { "100 ml": 49, "250 ml": 120, "500 ml": 230 }
+    }
+  },
+  {
+    "_id": "Blades-&-Razor",
+    "itemInHindi": "\u092c\u094d\u0932\u0947\u0921 - \u0914\u0930 - \u0909\u0938\u094d\u0924\u0930\u093e",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "piece",
+    "quantifier": "N",
+    "Prices": {
+      "Gillette Vector Razor": { "price": 65 },
+      "Gillete Vector Cartidge": { "6 piece": 150 }
+    }
+  },
+  {
+    "_id": "Toothbrush",
+    "itemInHindi": "\u091f\u0942\u0925\u092c\u094d\u0930\u0936",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "piece",
+    "quantifier": "N",
+    "Prices": {
+      "Sensodyne Deep Clean Extra Soft": { "price": 70 },
+      "Colgate Zig-Zag": { "price": 30 },
+      "Oral-B Cavity Defence": { "price": 30 }
+    }
+  },
+  {
+    "_id": "Toothpaste",
+    "itemInHindi": "\u091f\u0942\u0925\u092a\u0947\u0938\u094d\u091f",
+    "category": "Grooming-&-Oral-Care",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Closeup Ever Fresh": { "150 gm": 85 },
+      "Colgate Max Fresh Blue Gel": { "80 gm": 50 },
+      "Sensodyne Rapid Relief": { "80 gm": 160 },
+      "Pepsodant": { "100 gm": 52, "150 gm": 65 }
+    }
+  },
+  {
+    "_id": "Women's-Deo",
+    "itemInHindi": "Women's-\u0926\u0947\u0935",
+    "category": "Deos-Perfumes-&-Talc",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "NIVEA Whitening Smooth Skin Deodorant Roll On": { "50 ml": 185 },
+      "Spinz Exotic Deodorant": { "150 ml": 190 },
+      "Yardley London English Lavender Deodorant ": { "150 ml": 190 },
+      "NIVEA Whitening Smooth Skin Deodorant ": { "150 ml": 209 },
+      "Engage Blush Deodrant ": { "150 ml": 190 },
+      "Fogg Paradise - Women": { "150 ml": 230 },
+      "Park Avenue Trance Perfume Body Spray ": { "135 ml": 210 }
+    }
+  },
+  {
+    "_id": "Men's-Deo",
+    "itemInHindi": "Men's-\u0926\u0947\u0935",
+    "category": "Deos-Perfumes-&-Talc",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Set Wet Swag Avatar Deodorant Spray ": { "150 ml": 149 },
+      "KamaSutra Spark Deodorant Spray": { "260 ml": 299 },
+      "Park Avenue Signature Collection Alter Ego ": { "150 ml": 240 },
+      "NIVEA MEN Fresh Power Charge ": { "150 ml": 199 },
+      "NIVEA MEN Fresh Active long lasting freshness": { "150 ml": 199 },
+      "NIVEA MEN Fresh Power Boost": { "150 ml": 199 },
+      "AXE Signature Mysterious ": { "154 ml": 240 },
+      "Fogg Fresh Aromatic ": { "150 ml": 275 },
+      "HE Respect Perfume Body Spray": { "150 ml": 190 }
+    }
+  },
+  {
+    "_id": "Talc",
+    "itemInHindi": "\u0924\u093e\u0932\u0915",
+    "category": "Deos-Perfumes-&-Talc",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Ponds Magic Freshness ": { "400 gm": 300 },
+      "NIVEA Pure Talc": { "400 gm": 249 },
+      "NIVEA Musk Talc ": { "400 gm": 249 }
+    }
+  },
+  {
+    "_id": "Baby-Cereal",
+    "itemInHindi": "\u092c\u0947\u092c\u0940-\u0905\u0928\u093e\u091c",
+    "category": "Baby-Foods",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Nestle Cerelac 5 Grains & Fruits Cereal ": { "300 gm": 267 },
+      "Nestle Cerelac Rice Vegetables Cereal ": { "300 gm": 235 }
+    }
+  },
+  {
+    "_id": "Baby-Shampoo",
+    "itemInHindi": "\u092c\u0947\u092c\u0940-\u0936\u0948\u092e\u094d\u092a\u0942",
+    "category": "Baby-Bath-&-Skincare",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Johnson's Baby No More Tears Shampoo ": { "500 ml": 360 },
+      "Johnson's Active Kids Clean & Fresh Shampoo": { "100 ml": 100 },
+      "Johnson's Active Kids Soft & Smooth ": { "100 ml": 100, "200 ml": 180 },
+      "Johnson's Active Kids Shiny Drops": { "200 ml": 180 },
+      "Johnson's Active Kids Clean & Fresh ": { "200 ml": 180 }
+    }
+  },
+  {
+    "_id": "Baby-Powder",
+    "itemInHindi": "\u092c\u091a\u094d\u091a\u094b \u0915\u093e \u092a\u093e\u0909\u0921\u0930",
+    "category": "Baby-Bath-&-Skincare",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "Johnson's Baby Powder ": { "200 gm": 100, "400 gm": 200 } }
+  },
+  {
+    "_id": "Baby-Cream",
+    "itemInHindi": "\u092c\u0947\u092c\u0940-\u0915\u094d\u0930\u0940\u092e",
+    "category": "Baby-Bath-&-Skincare",
+    "unit": "ml/gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Johnson's Baby Cream ": { "100 gm": 145 },
+      "Johnson's Baby Lotion": { "100 ml": 90 }
+    }
+  },
+  {
+    "_id": "Baby-Oil",
+    "itemInHindi": "\u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u0940 \u092e\u093e\u0932\u093f\u0936 \u0915\u093e \u0924\u0947\u0932",
+    "category": "Baby-Bath-&-Skincare",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Johnson's Vitamin E Oil": { "100 ml": 110, "200 ml": 195 },
+      "Dabur Lal Tail": { "100 ml": 100, "200 ml": 175, "500 ml": 360 }
+    }
+  },
+  {
+    "_id": "Sanitary-Pads",
+    "itemInHindi": "\u0938\u0948\u0928\u093f\u091f\u0930\u0940 \u092a\u0948\u0921",
+    "category": "Baby-Bath-&-Skincare",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": {
+      "Stayfree Secure Cottony Soft Regular Wings ": { "20 piece": 78 }
+    }
+  },
+  {
+    "_id": "Pads",
+    "itemInHindi": "\u092a\u0948\u0921",
+    "category": "Sanitary-Pads",
+    "unit": "/piece",
+    "quantifier": "/QN",
+    "Prices": {
+      "Whisper Ultra Clean XL Plus Wings ": {
+        "7 piece": 80,
+        "44 piece": 430,
+        "60 piece": 596
+      },
+      "Stayfree Secure Cottony Soft Regular Wings": { "20 piece": 78 },
+      "Whisper Ultra Nights XL Plus Wings ": { "30 piece": 319 },
+      "Stayfree Dry-Max All Night XL Wings": {
+        "7 piece": 90,
+        "14 piece": 175,
+        "28 piece": 325,
+        "42 piece": 450
+      }
+    }
+  },
+  {
+    "_id": "Detergents",
+    "itemInHindi": "\u0921\u093f\u091f\u0930\u094d\u091c\u0947\u0902\u091f",
+    "category": "Detergents-&-Freshners",
+    "unit": "ml/kg/gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Tide Naturals Lemon and Chandan ": { "800 gm": 58 },
+      "Ghadi Machine Wash ": { "1 kg": 83 },
+      "Surf Excel Excel Easy Wash ": { "1500 gm": 186 },
+      "Tide Plus Jasmine and Rose": { "1 kg": 90, "2 kg": 212, "4 kg": 465 },
+      "Surf Excel Matic Front Load ": {
+        "500 gm": 120,
+        "1000 gm": 235,
+        "2000 gm": 390
+      },
+      "Ariel Colour ": { "500 gm": 135 },
+      "Comfort After Wash": { "400 ml": 120, "860 ml": 218 },
+      "Robin Liquid Blue": { "150 ml": 56 }
+    }
+  },
+  {
+    "_id": "Mosquito-Repellants",
+    "itemInHindi": "\u092e\u091a\u094d\u091b\u0930 \u092e\u093e\u0930\u0915",
+    "category": "Detergents-&-Freshners",
+    "unit": "piece/ml",
+    "quantifier": "N/QN",
+    "Prices": {
+      "Godrej Good Knight Power Activ+ Refill": { "price": 175 },
+      "Hit Dengue And Malaria Killer ": {
+        "200 ml": 93,
+        "320 ml": 163,
+        "400 ml": 182,
+        "625 ml": 269
+      }
+    }
+  },
+  {
+    "_id": "Washing-Bars",
+    "itemInHindi": "\u0935\u093e\u0936\u093f\u0902\u0917-\u092c\u093e\u0930\u094d\u0938",
+    "category": "Detergents-&-Freshners",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": { "Surf Excel ": { "95 gm": 10, "150 gm": 16, "500 gm": 53 } }
+  },
+  {
+    "_id": "Air-Freshners",
+    "itemInHindi": "\u0939\u0935\u093e \u0924\u093e\u091c\u093c\u093e \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u093e",
+    "category": "Detergents-&-Freshners",
+    "unit": "piece/ml",
+    "quantifier": "QN/N",
+    "Prices": {
+      "Godrej aer Fresh Lush Green ": { "240 ml": 149 },
+      "Godrej aer Violet Valley Bloom": { "240 ml": 149 },
+      "Ambipur Exotic Jasmine Spray": { "240 ml": 279 },
+      "Godrej Aer Cool Surf Blue Car Freshener": { "price": 269 },
+      "Odonil Orchid Dew Blocks ": { "price": 70 }
+    }
+  },
+  {
+    "_id": "Insecticides",
+    "itemInHindi": "\u0915\u0940\u091f\u0928\u093e\u0936\u0915",
+    "category": "Detergents-&-Freshners",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "HIT Kills Hidden Cockroaches": {
+        "125 ml": 65,
+        "400 ml": 175,
+        "625 ml": 258
+      }
+    }
+  },
+  {
+    "_id": "Batteries",
+    "itemInHindi": "\u092c\u0948\u091f\u0930\u093f\u092f\u094b\u0902",
+    "category": "Basic-Electricals",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": {
+      "Eveready Give Me Red AA": { "15 piece": 150 },
+      "Eveready Ultima Alkaline AAA": { "6 piece": 210 },
+      "Duracell Ultra 9V ": { "1 piece": 275 }
+    }
+  },
+  {
+    "_id": "Dishwash-Liquid",
+    "itemInHindi": "\u0935\u093e\u0936-\u0924\u0930\u0932",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Vim Dish Cleaning Gel": { "500 ml": 105, "750 ml": 160 },
+      "Pril Dish Cleaning Gel ": { "425 ml": 115 }
+    }
+  },
+  {
+    "_id": "Toilet-Cleaners",
+    "itemInHindi": "\u0936\u094c\u091a\u093e\u0932\u092f-\u0915\u094d\u0932\u0940\u0928\u0930",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "gm/ltr",
+    "quantifier": "QN",
+    "Prices": {
+      "Harpic Power Plus": { "1 ltr": 168 },
+      "Harpic Flushmatic Aquamarine": { "100 gm": 128, "150 gm": 192 },
+      "Harpic Flushmatic In-Cistern Pines ": { "100 gm": 138 }
+    }
+  },
+  {
+    "_id": "Glass-Cleaners",
+    "itemInHindi": "\u0917\u094d\u0932\u093e\u0938 \u0915\u094d\u0932\u0940\u0928\u0930",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": { "Colin": { "125 ml": 35, "500 ml": 88 } }
+  },
+  {
+    "_id": "Floor-Cleaners",
+    "itemInHindi": "\u092b\u0930\u094d\u0936 \u0915\u094d\u0932\u0940\u0928\u0930",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "ml",
+    "quantifier": "QN",
+    "Prices": {
+      "Lizol Disinfectant Citrus": { "500 ml": 93, "975 ml": 189 },
+      "Lizol Disinfectant Floral": { "500 ml": 93, "975 ml": 179 }
+    }
+  },
+  {
+    "_id": "Dishwash-Bar",
+    "itemInHindi": "Bisbasa-\u092c\u093e\u0930",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "gm",
+    "quantifier": "QN",
+    "Prices": {
+      "Vim Dishwash Bar ": { "300 gm": 20 },
+      "Exo Touch & Shine Round ": { "500 gm": 48, "700 gm": 67 }
+    }
+  },
+  {
+    "_id": "Scrub-Pads",
+    "itemInHindi": "\u0938\u092b\u093c\u093e\u0908-\u092a\u0948\u0921",
+    "category": "Utensil-Floor-&-Other-Cleaners",
+    "unit": "piece",
+    "quantifier": "QN/N",
+    "Prices": {
+      "Scotch Brite ": { "price": 15 },
+      "Scotch Brite Platinum ": { "price": 20 }
+    }
+  },
+  {
+    "_id": "Shoe-Polish-&-Shiners",
+    "itemInHindi": "\u091c\u0942\u0924\u093e-\u092a\u094b\u0932\u093f\u0936 - \u0914\u0930 - \u0906\u0908\u0928\u093e",
+    "category": "Shoe-Care",
+    "unit": "piece",
+    "quantifier": "QN",
+    "Prices": {
+      "Cherry Blossom Nourishes Leather": { "price": 30 },
+      "Cherry Leather Shoe Liquid ": { "price": 85 }
+    }
+  }
+]

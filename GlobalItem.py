@@ -47,7 +47,7 @@ for key in data["products"]:
     else:
         fprice = {"price": int(price.replace(" ", ""))}
         price = fprice
-    item = "-".join(product["subCategory"].split(" "))
+    item = "-".join(product["subCategory"].strip().split(" "))
 
     # item="-".join(product["subCategory"].split(" "))
     temp = {
@@ -77,7 +77,7 @@ for key in data["products"]:
     else:
         newData2[category] = set()
 
-# print(newData2.keys)
+print(newData.keys())
 globalItemDb = []
 for gCategory in newData2.keys():
     for gItem in newData2[gCategory]:
