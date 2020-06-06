@@ -886,7 +886,7 @@
       "mrp": "60",
       "name": "Pears",
       "productType": "packed",
-      "quantifier": "QN",
+      "quantifier": "N",
       "subCategory": "Soaps",
       "unit": "2"
     },
@@ -1212,7 +1212,7 @@
     },
 
     "-M8LAHP47yXXEghMjWXF": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jed4sy80/hair-oil/j/d/d/180-amla-hair-oil-dabur-original-imaf2uthwcdrv2vz.jpeg?q=70",
       "mrp": "{180 : 88, 275 : 134, 450 : 199}",
       "name": "Dabur Amla",
@@ -1222,7 +1222,7 @@
       "unit": "4"
     },
     "-M8LEDSmmbevyvEgsjyI": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://imgur.com/cBYy8wa",
       "mrp": "{300 : 140, 500 : 240}",
       "name": "Hair & Care",
@@ -1232,7 +1232,7 @@
       "unit": "4"
     },
     "-M8LKMu4nkGs-fYh5oK2": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/juvjzbk0/hair-oil/g/w/j/100-ayurvedic-scalp-and-medicinal-kesh-king-original-imaffwesny4hjyyj.jpeg?q=70",
       "mrp": "{100 : 160, 200 : 320}",
       "name": "Kesh King",
@@ -1242,7 +1242,7 @@
       "unit": "4"
     },
     "-M8LL6oMZRJbd0rjezdz": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k91o6fk0/hair-oil/m/b/k/100-kesh-kanti-amla-patanjali-original-imafqxhbtvzsreds.jpeg?q=70",
       "mrp": "{100 : 40}",
       "name": "Patanjali ",
@@ -1252,7 +1252,7 @@
       "unit": "4"
     },
     "-M8LMlEr-msyGnlgtySU": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jepzrm80/hair-oil/n/z/y/300-cool-ayurvedic-navratna-original-imaf3chzw526698k.jpeg?q=70",
       "mrp": "{300 : 182, 500 : 295}",
       "name": "Navratna Cool",
@@ -1262,7 +1262,7 @@
       "unit": "4"
     },
     "-M8LPGGdrVpIV6CBw9sI": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k2p1q4w0/hair-color/t/h/n/excellence-creme-l-oreal-paris-original-imafgxg78zzdpzfm.jpeg?q=70",
       "mrp": "{590 : 100}",
       "name": "L'Oreal Paris Excellence Creme Gloss",
@@ -1272,7 +1272,7 @@
       "unit": "5"
     },
     "-M8LQgDfsGl8Dv1EgZyw": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jepzrm80/hair-color/g/g/y/rich-creme-godrej-expert-original-imaf3chzekv4rdse.jpeg?q=70",
       "mrp": "{62 : 99}",
       "name": "Godrej Expert Rich Creme ",
@@ -1282,7 +1282,7 @@
       "unit": "5"
     },
     "-M8LR2ReOXPft6K1hSH4": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jhtg4280/hair-color/q/z/z/color-naturals-garnier-men-original-imaf5rygjpzhmuek.jpeg?q=70",
       "mrp": "{30 : 115}",
       "name": "Garnier Men Color Naturals ",
@@ -1292,7 +1292,7 @@
       "unit": "5"
     },
     "-M8LRjIB6qKwc-WqJa0k": {
-      "category": "Soaps, Hair Care & Body Wash",
+      "category": "Soaps & Hair Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jsc3ssw0/hair-color/t/9/v/color-naturals-shade-5-garnier-original-imafdwdbmz9xdzth.jpeg?q=70",
       "mrp": "{60 : 180}",
       "name": "Garnier Color Naturals Creme ",
@@ -1632,7 +1632,7 @@
       "unit": "5"
     },
     "-M8V80OWewKI77Kz7uMR": {
-      "category": "Baby Foods",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k8t3jbk0/baby-cereal/k/4/x/300-5-grains-fruits-nestle-cerelac-original-imafqqqggmhhwwn5.jpeg?q=70",
       "mrp": "{300 : 267}",
       "name": "Nestle Cerelac 5 Grains & Fruits Cereal ",
@@ -1642,7 +1642,7 @@
       "unit": "5"
     },
     "-M8V8ElASSIFJyP6J1jg": {
-      "category": "Baby Foods",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k8t3jbk0/baby-cereal/n/8/z/300-rice-vegetables-nestle-cerelac-original-imafqqqgzgq5eyhh.jpeg?q=70",
       "mrp": "{300 : 235}",
       "name": "Nestle Cerelac Rice Vegetables Cereal ",
@@ -1652,7 +1652,7 @@
       "unit": "5"
     },
     "-M8VAXc0CK89DAxv7Z6Y": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://i.imgur.com/PaBL5Gn.jpg",
       "mrp": "{50 : 30, 75 : 46, 100 : 55}",
       "name": "Johnson's Baby Soap",
@@ -1662,7 +1662,7 @@
       "unit": "5"
     },
     "-M8VBVNxs7AIfTqgrLLR": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k9re3rk0/shampoo/g/b/2/500-baby-no-more-tears-shampoo-johnson-s-original-imafrhh52u8behhh.jpeg?q=70",
       "mrp": "{500 : 360}",
       "name": "Johnson's Baby No More Tears Shampoo ",
@@ -1672,7 +1672,7 @@
       "unit": "4"
     },
     "-M8VCEoHOT8cIo_-mIjf": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k9u8zgw0/shampoo/u/w/w/100-active-kids-clean-fresh-shampoo-johnson-s-original-imafrjr4b6b7kg5j.jpeg?q=70",
       "mrp": "{100 : 100}",
       "name": "Johnson's Active Kids Clean & Fresh Shampoo",
@@ -1682,7 +1682,7 @@
       "unit": "4"
     },
     "-M8VCblZvUfcX-9gxK4D": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/k9u8zgw0/shampoo/r/d/m/200-active-kids-soft-smooth-shampoo-johnson-s-original-imafrjr4fuupgwxm.jpeg?q=70",
       "mrp": "{100 : 100, 200 : 180}",
       "name": "Johnson's Active Kids Soft & Smooth ",
@@ -1692,7 +1692,7 @@
       "unit": "4"
     },
     "-M8VCullCnXSGvE0fNda": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k9re3rk0/shampoo/z/v/c/200-active-kids-shiny-drops-shampoo-johnson-s-original-imafrhh5jzjye6u9.jpeg?q=70",
       "mrp": "{200 : 180}",
       "name": "Johnson's Active Kids Shiny Drops",
@@ -1702,7 +1702,7 @@
       "unit": "4"
     },
     "-M8VDH8_8_x05SDUlQTv": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k9re3rk0/shampoo/p/z/r/200-active-kids-shampoo-clean-fresh-200-ml-bmr-johnson-s-original-imafrhh5h54qbzeu.jpeg?q=70",
       "mrp": "{200 : 180}",
       "name": "Johnson's Active Kids Clean & Fresh ",
@@ -1712,7 +1712,7 @@
       "unit": "4"
     },
     "-M8VDa1UB9xMP8I9Yywn": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jk76j680/bath-essential-oil/g/q/b/100-vitamin-e-oil-johnson-s-original-imaf7hz6xe4bmznc.jpeg?q=70",
       "mrp": "{100 : 110, 200 : 195}",
       "name": "Johnson's Vitamin E Oil",
@@ -1722,7 +1722,7 @@
       "unit": "4"
     },
     "-M8VDr1vxriKjWfWP27F": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jpfsnm80/bath-essential-oil/p/b/s/100-lal-tail-ayurvedic-baby-massage-oil-dabur-original-imafbzaz5jdrdrhg.jpeg?q=70",
       "mrp": "{100 : 100, 200 : 175, 500 : 360}",
       "name": "Dabur Lal Tail",
@@ -1732,7 +1732,7 @@
       "unit": "4"
     },
     "-M8VE9pYlx-HYdRekLDA": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k9loccw0/moisturizer-cream/h/p/g/100-baby-cream-johnson-s-cream-original-imafrcpujgrpzgk7.jpeg?q=70",
       "mrp": "{100 : 145}",
       "name": "Johnson's Baby Cream ",
@@ -1742,7 +1742,7 @@
       "unit": "5"
     },
     "-M8VEMWfeqc26akuFLb9": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/moisturizer-cream/j/f/g/johnsons-baby-100-baby-lotion-original-imae76e98bppfbd9.jpeg?q=70",
       "mrp": "{100 : 90}",
       "name": "Johnson's Baby Lotion",
@@ -1752,7 +1752,7 @@
       "unit": "4"
     },
     "-M8VF-4mMaehTSf-Ox9f": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k5r2mq80/talc/5/k/z/400-baby-powder-johnson-s-original-imafzd9fahbd977y.jpeg?q=70",
       "mrp": "{200 : 100, 400 : 200}",
       "name": "Johnson's Baby Powder ",
@@ -1762,63 +1762,13 @@
       "unit": "5"
     },
     "-M8VHWE9D9Uj9rEtiksF": {
-      "category": "Baby Bath & Skincare",
+      "category": "Baby Care",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jm6mjrk0/sanitary-pad-pantyliner/y/t/h/secure-cottony-soft-regular-wings-regular-20-sanitary-pad-original-imaf95axbb2ywhhz.jpeg?q=70",
       "mrp": "{20 : 78}",
       "name": "Stayfree Secure Cottony Soft Regular Wings ",
       "productType": "packed",
       "quantifier": "QN",
       "subCategory": "Sanitary Pads",
-      "unit": "2"
-    },
-    "-M8VK3aC8IyIeAaaNWqQ": {
-      "category": "Sanitary Pads",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jq5iky80/sanitary-pad-pantyliner/4/k/v/xl-ultra-clean-xl-plus-wings-44-sanitary-pad-whisper-original-imafc8ganvjfbptj.jpeg?q=70",
-      "mrp": "{7 : 80, 44 : 430, 60 : 596}",
-      "name": "Whisper Ultra Clean XL Plus Wings ",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Pads",
-      "unit": "2"
-    },
-    "-M8VKHxxUcKy6w7pkuy7": {
-      "category": "Sanitary Pads",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jm6mjrk0/sanitary-pad-pantyliner/y/t/h/secure-cottony-soft-regular-wings-regular-20-sanitary-pad-original-imaf95axbb2ywhhz.jpeg?q=70",
-      "mrp": "{20 : 78}",
-      "name": "Stayfree Secure Cottony Soft Regular Wings",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Pads",
-      "unit": "2"
-    },
-    "-M8VKmt2wcEo79XzVhGT": {
-      "category": "Sanitary Pads",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jq5iky80/sanitary-pad-pantyliner/3/e/d/xl-ultra-nights-xl-plus-wings-30-sanitary-pad-whisper-original-imafc8ga6wzgwtze.jpeg?q=70",
-      "mrp": "-1",
-      "name": "Whisper Ultra Nights XL Plus Wings ",
-      "productType": "",
-      "quantifier": "",
-      "subCategory": " Pads",
-      "unit": ""
-    },
-    "-M8VL7h0mgGFbRfPI3NV": {
-      "category": "Sanitary Pads",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jq5iky80/sanitary-pad-pantyliner/3/e/d/xl-ultra-nights-xl-plus-wings-30-sanitary-pad-whisper-original-imafc8ga6wzgwtze.jpeg?q=70",
-      "mrp": "{30 : 319}",
-      "name": "Whisper Ultra Nights XL Plus Wings ",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Pads",
-      "unit": "2"
-    },
-    "-M8VLh0ddk2BsheWqseQ": {
-      "category": "Sanitary Pads",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jxapua80/sanitary-pad-pantyliner/p/q/e/dry-max-all-night-xl-wings-xl-42-sanitary-pad-stayfree-original-imafhsgqfh92fhpf.jpeg?q=70",
-      "mrp": "{7 : 90, 14 : 175, 28 : 325, 42 : 450}",
-      "name": "Stayfree Dry-Max All Night XL Wings",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": " Pads",
       "unit": "2"
     },
     "-M8_ZgIlvIOManEx0kII": {
@@ -2001,48 +1951,8 @@
       "subCategory": "Mosquito Repellants",
       "unit": "4"
     },
-    "-M8f3A1k7VW5-m5v0TGn": {
-      "category": "Basic Electricals",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jc5458w0/battery/carbon-zinc/t/v/7/eveready-give-me-red-heavy-duty-original-imaffcfynppn9jfp.jpeg?q=70",
-      "mrp": "{15 : 150}",
-      "name": "Eveready Give Me Red AA",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Batteries",
-      "unit": "2"
-    },
-    "-M8f4Cdq7WuD0PYTLg6M": {
-      "category": "Basic Electricals",
-      "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jepzrm80/battery/alkaline-battery/h/y/n/eveready-alkaline-2112-aaa-original-imaf3chy3r33fzyz.jpeg?q=70",
-      "mrp": "{2 : 68}",
-      "name": "Eveready Ultima Alkaline AAA",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Batteries",
-      "unit": "2"
-    },
-    "-M8f4mVWy7RjN5_cGjTT": {
-      "category": "Basic Electricals",
-      "imageUrl": "https://rukminim1.flixcart.com/image/192/192/jcnovbk0/battery/alkaline-battery/x/e/p/eveready-alkaline-2112-aaa-original-imaffzhfmzghfmmw.jpeg?q=70",
-      "mrp": "{6 : 210}",
-      "name": "Eveready Ultima Alkaline AAA",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Batteries",
-      "unit": "2"
-    },
-    "-M8f53InSLebx81jPF8t": {
-      "category": "Basic Electricals",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jubjte80/battery/alkaline-battery/m/s/x/duracell-ultra-9v-1-original-imaffh6fz7zfhhrm.jpeg?q=70",
-      "mrp": "{1 : 275}",
-      "name": "Duracell Ultra 9V ",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Batteries",
-      "unit": "2"
-    },
     "-M8f6Nku5-Mrl4_0It3k": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/j9eirgw0/dish-cleaning-gel/k/h/p/lemon-na-500-bottle-vim-original-imaez7gzwaydafuj.jpeg?q=70",
       "mrp": "{500 : 105, 750 : 160}",
       "name": "Vim Dish Cleaning Gel",
@@ -2052,7 +1962,7 @@
       "unit": "4"
     },
     "-M8f6baxlQHKSA01UTfg": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k3rmm4w0/dish-cleaning-gel/n/m/7/lime-na-bottle-pril-original-imafmtgrzpyf9fsm.jpeg?q=70",
       "mrp": "{425 : 115}",
       "name": "Pril Dish Cleaning Gel ",
@@ -2062,7 +1972,7 @@
       "unit": "4"
     },
     "-M8f70xFgLAOFq7Ribw1": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/j9n3ekw0/dish-washing-bar/g/9/q/na-1-300-vim-original-imaez6hsaruaxb5q.jpeg?q=70",
       "mrp": "{300 : 20}",
       "name": "Vim Dishwash Bar ",
@@ -2072,7 +1982,7 @@
       "unit": "5"
     },
     "-M8f7M2SvKs-kzvAWdMl": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k6qsn0w0/dish-washing-bar/q/j/d/touch-shine-round-1-500-exo-original-imafp4z4tpky9gup.jpeg?q=70",
       "mrp": "{500 : 48, 700 : 67}",
       "name": "Exo Touch & Shine Round ",
@@ -2082,7 +1992,7 @@
       "unit": "5"
     },
     "-M8f7d5w0-7ruV3qK1Ds": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jdxeykw0/scrub-pad/u/t/y/regular-scrub-pad-regular-1-scotch-brite-original-imaf2qfacbkccmqm.jpeg?q=70",
       "mrp": "15",
       "name": "Scotch Brite ",
@@ -2092,7 +2002,7 @@
       "unit": "2"
     },
     "-M8f7uk8xjL_dEa4vdoo": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jepzrm80/scrub-pad/h/y/y/small-platinum-1-scotch-brite-original-imaf3camhnwxfzkq.jpeg?q=70",
       "mrp": "20",
       "name": "Scotch Brite Platinum ",
@@ -2102,7 +2012,7 @@
       "unit": "2"
     },
     "-M8f9VBiJ63M02N24qd4": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/k8ndrww0/toilet-cleaner/u/a/a/original-1-power-plus-harpic-original-imafqm7hzefad4eh.jpeg?q=70",
       "mrp": "{1 : 168}",
       "name": "Harpic Power Plus",
@@ -2112,7 +2022,7 @@
       "unit": "3"
     },
     "-M8f9wuyu7bCV8MiBp-M": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/j3agya80/toilet-cleaner/v/k/s/100-flushmatic-twin-aquamarine-harpic-original-imaeug8c4qhadzws.jpeg?q=70",
       "mrp": "{100 : 128, 150 : 192}",
       "name": "Harpic Flushmatic Aquamarine",
@@ -2122,7 +2032,7 @@
       "unit": "5"
     },
     "-M8fAAnyAGVLIpceUHdJ": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/280/280/j3agya80/toilet-cleaner/h/d/y/pines-100-flushmatic-twin-pine-harpic-original-imaeug8cvmwuhznt.jpeg?q=70",
       "mrp": "{100 : 138}",
       "name": "Harpic Flushmatic In-Cistern Pines ",
@@ -2132,7 +2042,7 @@
       "unit": "5"
     },
     "-M8fB7oejxF0prqu2imk": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/k7z3afk0/bathroom-floor-cleaner/f/y/g/citrus-500-disinfectant-surface-cleaner-bottle-lizol-original-imafq39xkbnfwngm.jpeg?q=70",
       "mrp": "{500 : 93, 975 : 189}",
       "name": "Lizol Disinfectant Citrus",
@@ -2142,7 +2052,7 @@
       "unit": "4"
     },
     "-M8fBRnLoRz85IVRB6ig": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://rukminim1.flixcart.com/image/192/192/k7z3afk0/bathroom-floor-cleaner/t/y/8/floral-500-disinfectant-surface-cleaner-bottle-lizol-original-imafq39xghmck5fz.jpeg?q=70",
       "mrp": "{500 : 93, 975 : 179}",
       "name": "Lizol Disinfectant Floral",
@@ -2152,7 +2062,7 @@
       "unit": "4"
     },
     "-M8fCIovt64pqG-SNvnh": {
-      "category": "Utensil, Floor & Other Cleaners",
+      "category": "Utensils, Floor Cleaner",
       "imageUrl": "https://i.imgur.com/eRH70bu.jpg",
       "mrp": "{125 : 35, 500 : 88}",
       "name": "Colin",
@@ -2160,26 +2070,6 @@
       "quantifier": "QN",
       "subCategory": "Glass Cleaners",
       "unit": "4"
-    },
-    "-M8fGkc_8jO_95X8ut1l": {
-      "category": "Shoe Care",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/jxkpx8w0/shoe-polish-cream/r/b/n/15-wax-shoe-polish-wax-polish-cherry-blossom-original-imafgyygg2cdvjyc.jpeg?q=70",
-      "mrp": "30",
-      "name": "Cherry Blossom Nourishes Leather",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Shoe Polish & Shiners",
-      "unit": "2"
-    },
-    "-M8fH26M5g--7_tq1d0y": {
-      "category": "Shoe Care",
-      "imageUrl": "https://rukminim1.flixcart.com/image/280/280/k09vv680/shoe-polish-cream/z/n/z/75-nourishes-liquid-polish-cherry-blossom-original-imafk3mzqmnyhmtf.jpeg?q=70",
-      "mrp": "85",
-      "name": "Cherry Leather Shoe Liquid ",
-      "productType": "packed",
-      "quantifier": "QN",
-      "subCategory": "Shoe Polish & Shiners",
-      "unit": "2"
     }
   }
 }
