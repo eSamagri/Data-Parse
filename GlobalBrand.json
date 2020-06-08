@@ -1,24 +1,39 @@
 [
-  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Jeera" },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
+    "packed": false,
+    "item": "Jeera"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Kali-Mirch"
   },
-  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Methi" },
-  { "brand": "Catch", "displayImg": "", "packed": true, "item": "Hing" },
-  { "brand": "Patanjali", "displayImg": "", "packed": true, "item": "Hing" },
-  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Sarso" },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
+    "packed": false,
+    "item": "Methi"
+  },
+  { "brand": "Catch", "displayImg": "", "packed": true, "item": "Hing" },
+  { "brand": "Patanjali", "displayImg": "", "packed": true, "item": "Hing" },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
+    "packed": false,
+    "item": "Sarso"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Elaichi"
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Ajwain"
   },
@@ -42,7 +57,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Haldi-"
   },
@@ -60,7 +75,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Dhaniya-Powder"
   },
@@ -72,7 +87,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Lal-Mirch"
   },
@@ -84,13 +99,13 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Jeera-Powder"
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Elaichi-Powder"
   },
@@ -120,7 +135,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Garam-Masala"
   },
@@ -198,19 +213,19 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Sona-Masoori-Rice"
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Arwa-Chawal"
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Usina-Chawal"
   },
@@ -222,7 +237,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Almonds"
   },
@@ -234,7 +249,7 @@
   },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Raisins-(Kishmis)"
   },
@@ -244,10 +259,15 @@
     "packed": true,
     "item": "Salt"
   },
-  { "brand": "Unpackaged", "displayImg": "", "packed": false, "item": "Sugar" },
   {
     "brand": "Unpackaged",
-    "displayImg": "",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
+    "packed": false,
+    "item": "Sugar"
+  },
+  {
+    "brand": "Unpackaged",
+    "displayImg": "https://i.imgur.com/1myQPDG.png",
     "packed": false,
     "item": "Jaggery-(-Gud)"
   },

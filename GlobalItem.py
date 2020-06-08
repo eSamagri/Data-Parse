@@ -44,6 +44,7 @@ for key in data["products"]:
         price = price.replace(" ", "")
         fprice = {"price": list(map(int, price.split(",")))}
         price = fprice
+        print(price)
     else:
         fprice = {"price": int(price.replace(" ", ""))}
         price = fprice

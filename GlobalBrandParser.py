@@ -10,6 +10,8 @@ for key in data["products"]:
     if len(img) > 4:
         if img[:4] == "data":
             img = "default.png"
+    if(product['name']=='Unpackaged'):
+        img="https://i.imgur.com/1myQPDG.png"
     unit = product["unit"]
     if unit == "1":
         unit = "kg"
